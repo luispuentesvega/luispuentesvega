@@ -17,7 +17,7 @@
 <br><br>
 
 - 📫 How to reach [luispuentesvega@gmail.com](mailto:luispuentesvega@gmail.com)
-  <br><br>
+  <br>
   <hr>
 
 <h3 align="center">Connect with me:</h3>
