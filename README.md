@@ -14,7 +14,7 @@
 <img alt= "stats card" height="160" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=luispuentesvega&theme=react">
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=luispuentesvega&count_private=true&theme=react&show_icons=true" />
-<br><br>
+<br>
 
 - 📫 How to reach [luispuentesvega@gmail.com](mailto:luispuentesvega@gmail.com)
   <br>
