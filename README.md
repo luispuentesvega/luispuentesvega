@@ -3,8 +3,6 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luispuentesvega&label=Profile%20views&color=0e75b6&style=flat" alt="luispuentesvega" /> </p>
 
-- 🎯 I’m currently working on [Ecommerce-API](https://github.com/luispuentesvega/ecommerce-api)
-
 - 💻 All of my projects are available [here](https://github.com/luispuentesvega?tab=repositories)
 
 <!-- - 📄 Know about my experiences ([Resume]()) -->
