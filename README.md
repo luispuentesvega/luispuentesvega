@@ -17,6 +17,11 @@
 - 📫 How to reach [luispuentesvega@gmail.com](mailto:luispuentesvega@gmail.com)
   <br>
   <hr>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,react,nestjs,postgresql,git,nextjs,docker,aws,prisma,mongo" />
+  </a>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
